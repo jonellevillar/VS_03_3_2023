@@ -1,6 +1,6 @@
 ---
 title: "Incorporating a ketogenic diet in the treatment of SCZ and BPD"
-subtitle: "Mental Health is Metabolic Health"  
+subtitle: "Metabolic Theory of Mental Disorders"  
 author: 
   - "Jonelle Villar"
 date: "March 3, 2023"
@@ -97,4 +97,44 @@ xaringanExtra::use_tile_view()
 }
 
 ```
+
+---
+
+---
+
+---
+
+
+---
+
+Important steps:
+- Patient education about the diet
+- Engaged participation of BPD and Psychosis representatives 
+- Study design / data collection
+
+---
+
+Mental Health is Metabolic Health
+
+---
+class:top left
+background-image: url(slides/Martens_web2022final.jpg)
+background-position: 10% 55%
+background-size:500px
+
+
+# Acknowledgements <br>
+
+.pull-right[
+**Supervisor Stéphanie**<br><br>
+**Co-Supervisor Anne-Kristin**<br><br>
+**Colleagues in The Martens Group**<br><br>
+**Dept. of Clinical Science II** <br><br><br>
+**NORMENT** <br><br>
+## &#128512; 
+
+]
+
+---
+
 
