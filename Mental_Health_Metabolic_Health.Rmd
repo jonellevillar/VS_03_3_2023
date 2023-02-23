@@ -1,19 +1,20 @@
 ---
 title: "Incorporating a ketogenic diet in the treatment of SCZ and BPD"
-subtitle: "Metabolic Theory of Mental Disorders"  
-author: 
-  - "Jonelle Villar"
-date: "March 3, 2023"
+author: "Jonelle Villar"
+date: "NORMENT Verticle Synergy <br> March 3, 2023"
 output:
   xaringan::moon_reader:
     css: [xaringan-themer.css, yellow_dots.css, extra.css]
     nature:
+      titleSlideClass: ["left", "middle"]
       slideNumberFormat: "%current%"
       highlightStyle: github
       highlightLines: true
       ratio: 16:9
-      countIncrementalSlides: true
+      countIncrementalSlides: false
+   
 ---
+
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
@@ -68,7 +69,7 @@ style_duo(
 ```{r xaringanExtra, echo=FALSE, warning=FALSE}
 
 library(xaringanExtra)
-xaringanExtra::use_logo("slides/UiBlogoMED_gray_v_Eng.png",
+xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
                         width = "250px",
                         height = "250px",
                         position = xaringanExtra::css_position(top = "2em", right = "2em"))
@@ -96,10 +97,11 @@ xaringanExtra::use_tile_view()
   opacity: 0.66;
 }
 
+
 ```
 
 ---
-
+Metabolic Theory of Mental Disorders
 ---
 
 ---
