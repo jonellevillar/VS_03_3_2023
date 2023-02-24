@@ -139,22 +139,21 @@ Important steps:
 
 ---
 
-## Project title: Mental Health is Metabolic Health
+## Project title: <br> Mental Health is Metabolic Health
 
 
-- Metabolic interventions promote recovery at a systems-based level.
+**Research aims** 
 
-Aims – 
-For patients:
-To foster and support patient engagement in their own recovery
+ a) to identify epigenetic / gene expression changes associated with the KD
+ 
+ b) to identify mechanisms associated with symptom reduction
 
-For clinicians:
-To shift the focus from symptom-based treatment to system-based recovery. 
+**Clinical aims**
 
+a) To promote recovery through a metabolic intervention (KD)
 
-
-
-
+b) To foster and support patient engagement in their own recovery
+ 
 ---
 class:top left
 background-image: url(slides/Martens_web2022final.jpg)
