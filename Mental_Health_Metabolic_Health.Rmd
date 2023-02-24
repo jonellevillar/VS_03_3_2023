@@ -105,7 +105,7 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 
 ![](img/keto-plate.png)
 ---
-## What symptoms of metabolic disorders are shared with SCZ & BPD
+## Symptoms of metabolic disorders <br> shared with SCZ & BPD
 
 •	Weight gain 
 •	Dyslipedemia                             
