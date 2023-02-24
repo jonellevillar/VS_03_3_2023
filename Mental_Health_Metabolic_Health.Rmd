@@ -70,12 +70,12 @@ style_duo(
 
 library(xaringanExtra)
 xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
-                        width = "250px",
-                        height = "250px",
+                        width = "150px",
+                        height = "150px",
                         position = xaringanExtra::css_position(top = "2em", right = "2em"))
                      
 
-xaringanExtra::use_tile_view()
+
 
 ```
 
@@ -101,22 +101,59 @@ xaringanExtra::use_tile_view()
 ```
 
 ---
-Metabolic Theory of Mental Disorders
+## What is the ketogenic diet?
+
+![](img/keto-plate.png)
+---
+## What symptoms of metabolic disorders are shared with SCZ & BPD
+
+•	Weight gain 
+•	Dyslipedemia                             
+•	Cardiovascular disease
+•	Cognitive impairment
+•	Sleep disturbances
+•	Loss of quality of life  
+
+
 ---
 
 ---
+Epigenetics and metabolism and mental disorders
+
+- Dutch hunger winter 
+- Swedish 
+---
+## Current studies 
+
+Volkow - alcohol PMID: 33837086
 
 
+---
+mitochondrial changes morphological and funcitonal remodeling, abnormal cristae, decreased APT rpoduction, increased mtDNA mutations and alterations in ROS production.
 ---
 
 Important steps:
 - Patient education about the diet
-- Engaged participation of BPD and Psychosis representatives 
-- Study design / data collection
+- Engaged participation of User Representatives 
+- Study design / data collection 
 
 ---
 
-Mental Health is Metabolic Health
+## Project title: Mental Health is Metabolic Health
+
+
+- Metabolic interventions promote recovery at a systems-based level.
+
+Aims – 
+For patients:
+To foster and support patient engagement in their own recovery
+
+For clinicians:
+To shift the focus from symptom-based treatment to system-based recovery. 
+
+
+
+
 
 ---
 class:top left
@@ -139,4 +176,4 @@ background-size:500px
 
 ---
 
-
+Metabolic problems are reversible. 
