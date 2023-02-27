@@ -101,11 +101,13 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 ```
 
 ---
+## The environment
 
-![](slides/interactions.png)
+![](slides/junk_food.png)
 
 ---
-![](slides/junk_food.png)
+
+![](slides/interactions.png)
 
 ---
 
