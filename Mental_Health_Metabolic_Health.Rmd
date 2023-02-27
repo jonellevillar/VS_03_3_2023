@@ -101,13 +101,41 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 ```
 
 ---
+
+class:top left
+background-image: url(slides/junk_food.png)
+background-position: 10% 55%
+background-size:575px
+
+
 ## The environment
 
-![](slides/junk_food.png)
+.pull-right[.enlarge[
+- Diet<br><br>
+- Tobacco/Cannabis<br><br>
+- Alcohol<br><br>
+- Medication<br><br>
+- Psychosocial stress<br><br>
+]]
 
 ---
+## Interaction - signalling 
 
+.pull-left[
 ![](slides/interactions.png)
+]
+
+.pull-right[.enlarge[
+- <br><br>
+- <br><br>
+- <br><br>
+- <br><br>
+- <br><br>
+]]
+---
+## Mitochondrial dysfunction 
+
+
 
 ---
 
@@ -126,63 +154,49 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 * Ketones as alternative fuel source
 ]]
 ---
-## Therapeutic effects of burning ketone bodies
 
-- Evidence-based treatment for intractable epilepsy <br><br>
-- Detox for alcohol abuse (NIDA, PMID: 33837086)
-- Enhances mitochondrial function 
-
----
-
-## Why do we care about mitochondrial function?
-
----
-
-## Mechanisms of action 
+## Astrocytes also generate ketones
 
 
 ![](slides/astrocytes2.jpg)
 
 .footnote[A Ketogenic Diet Improve Mitochondrial Biogenesis and Bioenergetics via the PGC1ɑ-SIRT3-UCP2 Axis, Hasan-Olive ___et al___, (2019), Neurochemical Research.]
 ---
-## Mitochondrial dysfunction 
+
+## Reported therapeutic effects 
 
 .enlarge[
-- Medication 
-- High sugar / refined carbohydrates
-- Alcohol, tobacco, cannabis
-- Psychosocial stress 
+- Intractable epilepsy <br><br>
+- Detox for alcohol abuse (PMID: 33837086) <br><br>
+- Reduction hallucinations/delusions/social withdrawl 
 ]
-
-
 ---
 
----
-Epigenetics and metabolism and mental disorders
-
-- Dutch hunger winter 
-- Swedish 
----
-
-
----
-mitochondrial changes morphological and funcitonal remodeling, abnormal cristae, decreased APT rpoduction, increased mtDNA mutations and alterations in ROS production.
----
 ## Project title: <br> Mental Health is Metabolic Health
 
 
-.enlarge[**Research aims: to identify** <br>
+.enlarge[**Research aims** <br> <br />
 
- a) Epigenetic / gene expression changes associated with the KD
+-To identify: <br>
+
+    - Epigenetic / gene expression changes associated with the KD<br> <br> />
  
- b) Mechanisms associated with symptom reduction
+    - Mechanisms associated with symptom reduction/positive outcome
 
-**Clinical aims: to foster and support ** <br>
-
-a) Recovery through a low risk metabolic intervention (KD)
-
-b) Patient engagement in their own recovery
 ]
+---
+## Mental Health is Metabolic Health
+
+.enlarge[**Clinical aims** <br> <br />
+
+-To foster and support:<br>
+
+    - Recovery through a low risk metabolic intervention (KD)<br> <br> />
+
+    - Patient engagement in their own recovery
+]
+
+
 ---
 
 Important steps:
@@ -223,3 +237,12 @@ Metabolic problems are reversible.
 
 
 ---
+
+---
+
+---
+
+
+
+---
+mitochondrial changes morphological and funcitonal remodeling, abnormal cristae, decreased APT rpoduction, increased mtDNA mutations and alterations in ROS production.
