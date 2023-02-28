@@ -167,16 +167,16 @@ background-size:575px
 
 class:top left
 background-image: url(slides/mtDNA_status.png)
-background-position: 10% 55%
+background-position: 10% 45%
 background-size:575px
 
 ## Mitochondrial dysfunction 
 
 .pull-right[.enlarge[
-- <br><br>Reduced ATP
-- <br><br>Increased ROS
-- <br><br>mtDNA mutations
-- <br><br>Reduced signaling
+- Reduced ATP<br><br>
+- Increased ROS<br><br>
+- mtDNA mutations<br><br>
+- Impaired signaling<br><br>
 
 ]]
 
@@ -197,14 +197,8 @@ background-size:575px
 * Fats converted to ketone bodies  <br><br>
 * Ketones as alternative fuel source
 ]]
----
-
-## Astrocytes also generate ketones
 
 
-![](slides/astrocytes2.jpg)
-
-.footnote[A Ketogenic Diet Improve Mitochondrial Biogenesis and Bioenergetics via the PGC1ɑ-SIRT3-UCP2 Axis, Hasan-Olive ___et al___, (2019), Neurochemical Research.]
 ---
 
 ## Reported therapeutic effects 
@@ -213,8 +207,27 @@ background-size:575px
 - Intractable epilepsy (PMID: 26222258) <br><br>
 - Detox for alcohol abuse (PMID: 33837086) <br><br>
 - Refractory BPD, SCZ, MDD (PMID: 35873236) <br><br>
-- Reduction hallucinations/delusions/social withdrawl 
+
 ]
+
+---
+class:top left
+background-image: url(slides/astrocytes2.jpg)
+background-position: 10% 55%
+background-size:525px
+
+## Astrocytes also generate ketones
+
+.pull-right[.enlarge[
+- Excess high fat produces excess ketone bodies  <br><br>
+- Loss of sensitivity to:
+    insulin, leptin, ghrelin (PMID:27122369)<br><br>
+- Antipsychotics interfer with these hormones] 
+
+]
+
+
+
 ---
 
 ## Project title: <br> Mental Health is Metabolic Health
