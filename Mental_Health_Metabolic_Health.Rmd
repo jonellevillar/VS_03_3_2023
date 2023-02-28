@@ -40,12 +40,18 @@ library(xaringanthemer)
 dark_yellow <- "#EFBE43"
 light_yellow <- "#FDF7E9"
 gray <- "#333333"
-blue <- "#4466B0"
+dkpurp <- "#464362"
+grBlue <- "#4F6C83"
+blGrn <- "#068488"
+blueish <- "#00C9D7"
+Dpurp <-  "#634F5F" 
 
 black <- "#1381B0"
 orange <- "#FF961C"
 white <- "#FFFFFF"
-
+lt <- "#00AAB5"
+blue <- "#4466B0"
+  
 style_duo(
   primary_color = light_yellow,
   secondary_color = dark_yellow,
@@ -93,9 +99,31 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
     font-size: 1.5em;
 }
 
+.large { 
+    font-size: 1.75em;
+}
+
 .fade {
   opacity: 0.66;
 }
+
+.blGrn {
+  font-size: 2em;
+  color: #068488;
+}
+
+
+
+.m {
+  font-size: 1.75em;
+  color: #56BABD;
+}
+
+.p {
+  font-size: 2em;
+  color: #369EA2;
+}
+
 
 
 ```
@@ -138,18 +166,18 @@ background-size:575px
 ---
 
 class:top left
-background-image: url(slides/.png)
+background-image: url(slides/mtDNA_status.png)
 background-position: 10% 55%
 background-size:575px
 
 ## Mitochondrial dysfunction 
 
 .pull-right[.enlarge[
-- <br><br>
-- <br><br>
-- <br><br>
-- <br><br>
-- <br><br>
+- <br><br>Reduced ATP
+- <br><br>Increased ROS
+- <br><br>mtDNA mutations
+- <br><br>Reduced signaling
+
 ]]
 
 
@@ -191,56 +219,47 @@ background-size:575px
 ## Project title: <br> Mental Health is Metabolic Health
 
 
-.enlarge[**Research aims** <br> <br />
+.p[Research aims - To identify:]<br><br>
 
--To identify: <br>
 
-    - Epigenetic / gene expression changes associated with the KD<br> <br> />
+
+.large[(1) Epigenetic / gene expression changes associated with the KD]<br> <br> 
  
-    - Mechanisms associated with symptom reduction/positive outcome
-
-]
----
-## Mental Health is Metabolic Health
-
-.enlarge[**Clinical aims** <br> <br />
-
--To foster and support:<br>
-
-    - Recovery through a low risk metabolic intervention (KD)<br> <br> />
-
-    - Patient engagement in their own recovery
-]
+.large[(2) Mechanisms associated with symptom reduction/positive outcome]
 
 
 ---
+## Project title: <br> Mental Health is Metabolic Health
 
-Important steps:
-- Patient education about the diet
-- Engaged participation of User Representatives 
-- Study design / data collection 
+.p[Clinical aims - To foster and support:]<br><br>
+
+.large[(1) Recovery through a low risk metabolic intervention (KD)]<br> <br> 
+
+.large[(2) Patient engagement in their own recovery]
+
 
 ---
 class:top left
 background-image: url(slides/Martens_web2022final.jpg)
-background-position: 10% 55%
-background-size:500px
+background-position: 10% 60%
+background-size:550px
 
 
 # Acknowledgements <br>
 
-.pull-right[
-**Supervisor Stéphanie**<br><br>
-**Co-Supervisor Anne-Kristin**<br><br>
+.pull-right[.enlarge[
+**Supervisor: Stéphanie**<br><br>
+**Co-Supervisor: Anne-Kristin**<br><br>
 **Colleagues in The Martens Group**<br><br>
 **Dept. of Clinical Science II** <br><br><br>
-**NORMENT** <br><br>
-## &#128512; 
+**NORMENT** ] <br><br>
+
 
 ]
 
 ---
 
+---
 Metabolic problems are reversible. 
 ## Symptoms of metabolic disorders <br> shared with SCZ & BPD
 
