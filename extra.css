@@ -5,7 +5,12 @@
   color: "#f3f3f3";
 }
 .lggray {
-  color: "#eaeaea"
+  color: "#eaeaea";
+}
+
+.dkpurp {
+  color: "#464362";
+  font-size: 120%;
 }
 
 .small { 
@@ -27,6 +32,12 @@
 .large {
   font-size: 120%;
 }
+
+.largeBL {
+  font-size: 120%;
+  color: blue;
+}
+
 
 
 .Large {
