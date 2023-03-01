@@ -170,6 +170,7 @@ background-size:575px
 - Reduced ATP<br><br>
 - Increased ROS<br><br>
 - Impaired signaling<br><br>
+- Altered gene expression
 
 ]]
 
