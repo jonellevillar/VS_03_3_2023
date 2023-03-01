@@ -133,7 +133,7 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 class:top left
 background-image: url(img/junk_food.png)
 background-position: 10% 55%
-background-size:575px
+background-size:600px
 
 
 ## The environment
@@ -250,43 +250,21 @@ background-size:550px
 ---
 class:top left
 background-image: url(img/Martens_web2022final.jpg)
-background-position: 10% 60%
-background-size:550px
+background-position: 10% 65%
+background-size:600px
 
 
 # Acknowledgements <br>
 
 .pull-right[.enlarge[
-**Supervisor: Stéphanie**<br><br>
-**Co-Supervisor: Anne-Kristin**<br><br>
-**Colleagues in The Martens Group**<br><br>
-**Dept. of Clinical Science II** <br><br><br>
-**NORMENT** ] <br><br>
+- Supervisor: Stéphanie<br><br>
+- Co-Supervisor: Anne-Kristin<br><br>
+- Colleagues in The Martens Group<br><br>
+- Dept. of Clinical Science II<br><br><br>
+- NORMENT] <br><br>
 
 
 ]
 
 ---
 
----
-Metabolic problems are reversible. 
-## Symptoms of metabolic disorders <br> shared with SCZ & BPD
-
-•	Weight gain 
-•	Dyslipedemia                             
-•	Cardiovascular disease
-•	Cognitive impairment
-•	Sleep disturbances
-•	Loss of quality of life  
-
-
----
-
----
-
----
-
-
-
----
-mitochondrial changes morphological and funcitonal remodeling, abnormal cristae, decreased APT rpoduction, increased mtDNA mutations and alterations in ROS production.
