@@ -1,0 +1,292 @@
+---
+title: "Incorporating a ketogenic diet in the treatment of SCZ and BPD"
+author: "Jonelle Villar"
+date: "NORMENT Verticle Synergy <br> March 3, 2023"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, yellow_dots.css, extra.css]
+    nature:
+      titleSlideClass: ["left", "middle"]
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: false
+   
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+library(fontawesome)
+library(tidyverse)
+library(xaringan)
+library(xaringanExtra)
+library(here)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+
+dark_yellow <- "#EFBE43"
+light_yellow <- "#FDF7E9"
+gray <- "#333333"
+dkpurp <- "#464362"
+grBlue <- "#4F6C83"
+blGrn <- "#068488"
+blueish <- "#00C9D7"
+Dpurp <-  "#634F5F" 
+
+black <- "#1381B0"
+orange <- "#FF961C"
+white <- "#FFFFFF"
+lt <- "#00AAB5"
+blue <- "#4466B0"
+  
+style_duo(
+  primary_color = light_yellow,
+  secondary_color = dark_yellow,
+  inverse_header_color = white,
+  header_color = gray,
+  text_color = gray,
+  code_inline_color = colorspace::lighten(gray),
+  text_bold_color = colorspace::lighten(gray),
+  link_color = blue,
+  title_slide_text_color = blue,
+  
+  # fonts
+  header_font_google = google_font("Martel", "300", "400"),
+  text_font_google = google_font("Lato"),
+  code_font_google = google_font("Fira Mono") 
+  
+)
+```
+
+
+```{r xaringanExtra, echo=FALSE, warning=FALSE}
+
+library(xaringanExtra)
+xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
+                        width = "150px",
+                        height = "150px",
+                        position = xaringanExtra::css_position(top = "2em", right = "2em"))
+                     
+
+
+
+```
+
+```{css extra.css, echo=FALSE}
+
+.small { 
+  font-size: 0.75em
+}  
+
+.bitty { 
+    font-size: 1.25em;
+}
+
+.enlarge { 
+    font-size: 1.5em;
+}
+
+.large { 
+    font-size: 1.75em;
+}
+
+.fade {
+  opacity: 0.66;
+}
+
+.blGrn {
+  font-size: 2em;
+  color: #068488;
+}
+
+
+
+.m {
+  font-size: 1.75em;
+  color: #56BABD;
+}
+
+.p {
+  font-size: 2em;
+  color: #369EA2;
+}
+
+
+
+```
+
+---
+
+class:top left
+background-image: url(img/junk_food.png)
+background-position: 10% 55%
+background-size:575px
+
+
+## The environment
+
+.pull-right[.enlarge[
+- Diet<br><br>
+- Tobacco/Cannabis<br><br>
+- Alcohol<br><br>
+- Medication<br><br>
+- Psychosocial stress<br><br>
+]]
+
+---
+
+class:top left
+background-image: url(img/EpiMito.png)
+background-position: 50% 60%
+background-size:650px
+
+## Mitochondrial epigenetics 
+
+
+.footnote[PMID:33228792]
+---
+
+class:top left
+background-image: url(img/mtDNA_status.png)
+background-position: 10% 45%
+background-size:575px
+
+## Mitochondrial dysfunction 
+
+.pull-right[.enlarge[
+- Reduced ATP<br><br>
+- Increased ROS<br><br>
+- Impaired signaling<br><br>
+
+]]
+
+
+---
+
+class:top left
+background-image: url(img/keto-plate.png)
+background-position: 15% 70%
+background-size:550px
+
+## What is the classic ketogenic diet (KD)?
+
+.pull-right[.enlarge[
+* Fat:Carbohydrate + Protein<br><br>
+  - Recommended ratio 4:1<br><br>
+* Fats converted to ketone bodies  <br><br>
+* Ketones as efficient fuel source
+]]
+
+
+---
+
+class:top left
+background-image: url(img/greenHeads.jpeg)
+background-position: 20% 60%
+background-size:447px
+
+## Reported therapeutic effects <br><br> 
+
+.pull-right[.enlarge[
+- Intractable epilepsy<br><br>
+- Detox for alcohol abuse<br><br>
+- Refractory BPD, SCZ, MDD]<br><br>
+
+]
+.footnote[PMID:26222258, PMID:33837086, PMID:35873236]
+---
+class:top left
+background-image: url(img/astrocytes2.jpg)
+background-position: 10% 65%
+background-size:550px
+
+## Astrocytes also generate ketones
+
+.pull-right[.enlarge[
+- Excess high fat diet<br>produces excess ketone bodies  <br><br>
+- Loss of sensitivity to <br>
+    insulin, leptin, ghrelin<br><br>
+- Antipsychotics alter <br> these hormone levels] 
+
+]
+
+
+.footnote[PMID:27122369]
+---
+
+## Project title: <br> Mental Health is Metabolic Health
+
+
+.p[Research aims - To identify:]<br><br>
+
+.large[(1) Epigenetic / gene expression changes associated with the KD]<br> <br> 
+ 
+.large[(2) Mechanisms associated with symptom reduction/positive outcomes]
+
+
+---
+## Project title: <br> Mental Health is Metabolic Health
+
+.p[Clinical aims - To foster and support:]<br><br>
+
+.large[(1) Recovery through a low risk metabolic intervention (KD)]<br> <br> 
+
+.large[(2) Patient engagement in their own recovery]
+
+
+---
+class:top left
+background-image: url(img/Martens_web2022final.jpg)
+background-position: 10% 60%
+background-size:550px
+
+
+# Acknowledgements <br>
+
+.pull-right[.enlarge[
+**Supervisor: Stéphanie**<br><br>
+**Co-Supervisor: Anne-Kristin**<br><br>
+**Colleagues in The Martens Group**<br><br>
+**Dept. of Clinical Science II** <br><br><br>
+**NORMENT** ] <br><br>
+
+
+]
+
+---
+
+---
+Metabolic problems are reversible. 
+## Symptoms of metabolic disorders <br> shared with SCZ & BPD
+
+•	Weight gain 
+•	Dyslipedemia                             
+•	Cardiovascular disease
+•	Cognitive impairment
+•	Sleep disturbances
+•	Loss of quality of life  
+
+
+---
+
+---
+
+---
+
+
+
+---
+mitochondrial changes morphological and funcitonal remodeling, abnormal cristae, decreased APT rpoduction, increased mtDNA mutations and alterations in ROS production.
