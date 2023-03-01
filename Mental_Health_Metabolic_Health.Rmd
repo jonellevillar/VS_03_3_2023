@@ -131,7 +131,7 @@ xaringanExtra::use_logo("slides/NORMENT_LOGO_Utekst_SORT.png",
 ---
 
 class:top left
-background-image: url(slides/junk_food.png)
+background-image: url(img/junk_food.png)
 background-position: 10% 55%
 background-size:575px
 
@@ -149,7 +149,7 @@ background-size:575px
 ---
 
 class:top left
-background-image: url(slides/EpiMito.png)
+background-image: url(img/EpiMito.png)
 background-position: 10% 55%
 background-size:575px
 
@@ -166,7 +166,7 @@ background-size:575px
 ---
 
 class:top left
-background-image: url(slides/mtDNA_status.png)
+background-image: url(img/mtDNA_status.png)
 background-position: 10% 45%
 background-size:575px
 
@@ -200,18 +200,23 @@ background-size:550px
 
 ---
 
+class:top left
+background-image: url(img/greenHeads.jpeg)
+background-position: 20% 60%
+background-size:447px
+
 ## Reported therapeutic effects <br><br> 
 
-.enlarge[
-- Intractable epilepsy      (PMID: 26222258) <br><br>
-- Detox for alcohol abuse   (PMID: 33837086) <br><br>
-- Refractory BPD, SCZ, MDD  (PMID: 35873236) <br><br>
+.pull-right[.enlarge[
+- Intractable epilepsy<br><br>
+- Detox for alcohol abuse<br><br>
+- Refractory BPD, SCZ, MDD]<br><br>
 
 ]
-
+.footnote[PMID:26222258, PMID:33837086, PMID:35873236]
 ---
 class:top left
-background-image: url(slides/astrocytes2.jpg)
+background-image: url(img/astrocytes2.jpg)
 background-position: 10% 65%
 background-size:550px
 
@@ -220,13 +225,13 @@ background-size:550px
 .pull-right[.enlarge[
 - Excess high fat produces excess ketone bodies  <br><br>
 - Loss of sensitivity to:
-    insulin, leptin, ghrelin (PMID:27122369)<br><br>
+    insulin, leptin, ghrelin<br><br>
 - Antipsychotics interfer with these hormones] 
 
 ]
 
 
-
+.footnote[PMID:27122369]
 ---
 
 ## Project title: <br> Mental Health is Metabolic Health
@@ -251,7 +256,7 @@ background-size:550px
 
 ---
 class:top left
-background-image: url(slides/Martens_web2022final.jpg)
+background-image: url(img/Martens_web2022final.jpg)
 background-position: 10% 60%
 background-size:550px
 
