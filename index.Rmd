@@ -143,7 +143,7 @@ background-size:600px
 - Tobacco/Cannabis<br><br>
 - Alcohol<br><br>
 - Medication<br><br>
-- Psychosocial stress<br><br>
+- Psychosocial stress/trauma<br><br>
 ]]
 
 ---
