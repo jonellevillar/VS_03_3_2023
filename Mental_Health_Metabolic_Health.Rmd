@@ -157,7 +157,7 @@ background-size:575px
 
 
 .pull-right[.enlarge[
-- <br><br>
+- Signalling interactions nDNA and mtDNA <br><br>
 - <br><br>
 - <br><br>
 - <br><br>
@@ -183,38 +183,37 @@ background-size:575px
 
 ---
 
+class:top left
+background-image: url(img/keto-plate.png)
+background-position: 15% 70%
+background-size:550px
+
 ## What is the classic ketogenic diet (KD)?
-
-.pull-left[
-
-![](img/keto-plate.png)
-
-]
 
 .pull-right[.enlarge[
 * Ratio 4:1 <br><br>
     + fat:carbohydrate + protein <br><br>
 * Fats converted to ketone bodies  <br><br>
-* Ketones as alternative fuel source
+* Ketones as efficient fuel source
 ]]
 
 
 ---
 
-## Reported therapeutic effects 
+## Reported therapeutic effects <br><br> 
 
 .enlarge[
-- Intractable epilepsy (PMID: 26222258) <br><br>
-- Detox for alcohol abuse (PMID: 33837086) <br><br>
-- Refractory BPD, SCZ, MDD (PMID: 35873236) <br><br>
+- Intractable epilepsy      (PMID: 26222258) <br><br>
+- Detox for alcohol abuse   (PMID: 33837086) <br><br>
+- Refractory BPD, SCZ, MDD  (PMID: 35873236) <br><br>
 
 ]
 
 ---
 class:top left
 background-image: url(slides/astrocytes2.jpg)
-background-position: 10% 55%
-background-size:525px
+background-position: 10% 65%
+background-size:550px
 
 ## Astrocytes also generate ketones
 
