@@ -191,8 +191,8 @@ background-size:550px
 ## What is the classic ketogenic diet (KD)?
 
 .pull-right[.enlarge[
-* Ratio 4:1 <br><br>
-    + fat:carbohydrate + protein <br><br>
+* Fat:Carbohydrate + Protein<br><br>
+  - Recommended ratio 4:1<br><br>
 * Fats converted to ketone bodies  <br><br>
 * Ketones as efficient fuel source
 ]]
@@ -223,10 +223,10 @@ background-size:550px
 ## Astrocytes also generate ketones
 
 .pull-right[.enlarge[
-- Excess high fat produces excess ketone bodies  <br><br>
-- Loss of sensitivity to:
+- Excess high fat diet<br>produces excess ketone bodies  <br><br>
+- Loss of sensitivity to <br>
     insulin, leptin, ghrelin<br><br>
-- Antipsychotics interfer with these hormones] 
+- Antipsychotics alter <br> these hormone levels] 
 
 ]
 
