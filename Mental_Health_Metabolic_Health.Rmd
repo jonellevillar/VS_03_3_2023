@@ -169,7 +169,6 @@ background-size:575px
 .pull-right[.enlarge[
 - Reduced ATP<br><br>
 - Increased ROS<br><br>
-- mtDNA mutations<br><br>
 - Impaired signaling<br><br>
 
 ]]
@@ -235,7 +234,7 @@ background-size:550px
 
 .large[(1) Epigenetic / gene expression changes associated with the KD]<br> <br> 
  
-.large[(2) Mechanisms associated with symptom reduction/positive outcome]
+.large[(2) Mechanisms associated with symptom reduction/positive outcomes]
 
 
 ---
