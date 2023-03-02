@@ -219,8 +219,7 @@ background-size:550px
 .pull-right[.enlarge[
 - Excess high fat diet<br>produces excess ketone bodies  <br><br>
 - Loss of sensitivity to <br>
-    insulin, leptin, ghrelin<br><br>
-- Antipsychotics also alter <br> these hormone levels] 
+    insulin, leptin, ghrelin]
 
 ]
 
