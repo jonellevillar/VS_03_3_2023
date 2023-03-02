@@ -143,7 +143,7 @@ background-size:575px
 - Tobacco/Cannabis<br><br>
 - Alcohol<br><br>
 - Medication<br><br>
-- Psychosocial stress<br><br>
+- Psychosocial stress/trauma<br><br>
 ]]
 
 ---
@@ -268,23 +268,6 @@ background-size:550px
 
 ---
 
----
-Metabolic problems are reversible. 
-## Symptoms of metabolic disorders <br> shared with SCZ & BPD
-
-•	Weight gain 
-•	Dyslipedemia                             
-•	Cardiovascular disease
-•	Cognitive impairment
-•	Sleep disturbances
-•	Loss of quality of life  
-
-
----
-
----
-
----
 
 
 
